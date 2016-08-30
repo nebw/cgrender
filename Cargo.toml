@@ -1,0 +1,11 @@
+[package]
+name = "cgrender"
+version = "0.1.0"
+authors = ["Benjamin Wild <b.w@fu-berlin.de>"]
+
+[dependencies]
+image = "0.10.3"
+rand = "0.3.14"
+sdl2 = "0.22.0"
+sdl2_image = "0.22.0"
+stopwatch = "0.0.7"
